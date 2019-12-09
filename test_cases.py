@@ -15,25 +15,36 @@ def test_search1():
                         'Date of Birth: ' + '1969-04-27'+'\n\t' +
                         'Url: ' + 'https://www.booker.senate.gov'+'\n\t' +
                         'State: '+ 'NJ'+'\n\t'+
-                        "In Office: "+ 'False'+'\n' + 'Session: ' + '114'+
+                        "In Office: "+ 'False'+'\n' + 
+			"Party: "+ 'D'+'\n\t' + 
+                        "Gender: " + 'M'+ '\n' +
+			'Session: ' + '114'+
                         '\n\tFacebook Account: '+ 'None'+
                         '\n\t' + 'Title: ' + 'Senator, 2nd Class' +
                         'Date of Birth: ' + '1969-04-27'+'\n\t' +
                         'Url: ' + 'https://www.booker.senate.gov'+'\n\t' +
                         'State: '+ 'NJ'+'\n\t'+
-                        "In Office: "+ 'False'+'\n'+'Session: ' + '115'+
+                        "In Office: "+ 'False'+'\n'+'
+			"Party: "+ 'D'+'\n\t' + 
+                        "Gender: " + 'M'+ '\n' +
+			'Session: ' + '115'+
                         '\n\tFacebook Account: '+ 'None'+
                         '\n\t' + 'Title: ' + 'Senator, 2nd Class' +
                         'Date of Birth: ' + '1969-04-27'+'\n\t' +
                         'Url: ' + 'https://www.booker.senate.gov'+'\n\t' +
                         'State: '+ 'NJ'+'\n\t'+
-                        "In Office: "+ 'False'+'\n' + 'Session: ' + '116'+
+                        "In Office: "+ 'False'+'\n' + 
+			"Party: "+ 'D'+'\n\t' + 
+                        "Gender: " + 'M'+ '\n' +
+			'Session: ' + '116'+
                         '\n\tFacebook Account: '+ 'None'+
                         '\n\t' + 'Title: ' + 'Senator, 2nd Class' +
                         'Date of Birth: ' + '1969-04-27'+'\n\t' +
                         'Url: ' + 'https://www.booker.senate.gov'+'\n\t' +
                         'State: '+ 'NJ'+'\n\t'+
-                        "In Office: "+ 'True'+'\n')
+                        "In Office: "+ 'True'+'\n'+ 
+			"Party: "+ 'D'+'\n\t' + 
+                        "Gender: " + 'M'+ '\n' +)
 
 #tests the district function in search 2
 def test_search2():
