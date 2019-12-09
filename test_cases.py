@@ -24,7 +24,7 @@ def test_search1():
                         'Date of Birth: ' + '1969-04-27'+'\n\t' +
                         'Url: ' + 'https://www.booker.senate.gov'+'\n\t' +
                         'State: '+ 'NJ'+'\n\t'+
-                        "In Office: "+ 'False'+'\n'+'
+                        "In Office: "+ 'False'+'\n'+
 			"Party: "+ 'D'+'\n\t' + 
                         "Gender: " + 'M'+ '\n' +
 			'Session: ' + '115'+
